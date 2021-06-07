@@ -15,10 +15,7 @@
   "devDependencies": {
     "nodemon": "2.0.4"
   },
-  "author": "Jack He",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ProjectsByJackHe/multiplayer-chess-game-backend/issues"
-  },
-  "homepage": "https://github.com/ProjectsByJackHe/multiplayer-chess-game-backend#readme"
+  
+  "homepage": "https://github.com/DayanMitev/Chess-Game"
 }
