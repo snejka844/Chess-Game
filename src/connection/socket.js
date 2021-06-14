@@ -1,6 +1,6 @@
 import io from 'socket.io-client'
 
-const URL = 'https://head2headchess.herokuapp.com/'//'http://localhost:8000' 
+const URL = 'http://localhost:8000' 
 
 const socket = io(URL)
 
